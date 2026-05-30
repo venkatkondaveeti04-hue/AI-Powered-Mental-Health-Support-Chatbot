@@ -48,6 +48,14 @@ The chatbot analyzes user conversations, identifies emotional states, provides s
 - Personalized Therapy Recommendations
 - Mobile Application Integration
 
+ # Project Resources
+
+### Project Report
+AI Powered Mental Health Support Chatbot Report (PDF available in repository)
+
+### Demo Video
+DEMO VIDEO.mp4 (available in repository)
+
 ## Author
 
 Venkata Krishna Chaitanya
